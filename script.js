@@ -1,2 +1,4 @@
 // JavaScript to be added
-anthony
+$(function() {
+    console.log('Wack')
+})
